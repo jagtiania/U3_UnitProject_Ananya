@@ -1,5 +1,6 @@
 import de.voidplus.leapmotion.*;
-int handarray;
+int hand;
+int index;
 
 LeapMotion leap;
 
@@ -13,11 +14,17 @@ void setup()
 
 void draw() {
   background(255);
+   fill(300,300,50);
+   ellipse(10,10,10,10);
   for (Hand hand : leap.getHands ()) 
   hand.draw(0);
+  if(hand != 1);
+  
+}
+  
+  
  
   {
       
   }
   
-}
