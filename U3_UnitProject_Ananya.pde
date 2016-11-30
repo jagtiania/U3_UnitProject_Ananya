@@ -1,6 +1,7 @@
 import de.voidplus.leapmotion.*;
 int hand;
 int index;
+//ArrayList<hand> hands; 
 
 LeapMotion leap;
 
@@ -19,6 +20,8 @@ void draw() {
   for (Hand hand : leap.getHands ()) 
   hand.draw(0);
   if(hand != 1);
+ 
+  
   
 }
   
