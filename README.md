@@ -8,7 +8,7 @@ Description: In this project, I am using the function leap motion because I find
     <li>I want to make a piece of art using the leap motion function. I want to make the person interact with the leap motion by them moving their hands up and down so that somewhat of a picture is created. My main goal for this point was to have a clear idea of what to use and how leap motion actually works in order to create an effective project. </li> 
      <li>Know what I am doing for the project</li>
        <li>Know what library I am using to create the project</li>
-         <li>Understand how to use leap motion</li>
+         <li>have a clear understanding of leap motion</li>
   </ul>
 </div>
  
